@@ -1,0 +1,12 @@
+dao\CursoDao.class
+dao\AlumnoDao.class
+dao\ContactoDao.class
+dao\DomicilioDao.class
+test\TestDaos.class
+domain\Alumno.class
+domain\Curso.class
+dao\GenericDao.class
+dao\AsignacionDao.class
+domain\Asignacion.class
+domain\Domicilio.class
+domain\Contacto.class
